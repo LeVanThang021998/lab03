@@ -11,4 +11,5 @@
         <maven.compiler.target>11</maven.compiler.target>
         <exec.mainClass>oop.baitap01.baitaptuan02.BaiTapTuan02</exec.mainClass>
     </properties>
+    <name>BaiTapTuan02</name>
 </project>
